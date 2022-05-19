@@ -7,10 +7,10 @@ tracker and much more.
 ## Screenshots
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/AnujPandey007/my-flutter-app/master/screenshots/WhatsApp%20Image%202020-04-22%20at%206.58.47%20PM%20(1).jpeg" width="100" />
-  <img src="https://raw.githubusercontent.com/AnujPandey007/my-flutter-app/master/screenshots/WhatsApp%20Image%202020-04-22%20at%206.58.47%20PM.jpeg" width="100" /> 
-  <img src="https://raw.githubusercontent.com/AnujPandey007/my-flutter-app/master/screenshots/WhatsApp%20Image%202020-04-22%20at%206.58.48%20PM.jpeg" width="100" />
-  <img src="https://raw.githubusercontent.com/AnujPandey007/my-flutter-app/master/screenshots/WhatsApp%20Image%202020-04-22%20at%206.58.49%20PM.jpeg" width="100" />
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Corona-Api/master/screenshots/WhatsApp%20Image%202020-04-22%20at%206.58.47%20PM%20(1).jpeg" width="100" />
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Corona-Api/master/screenshots/WhatsApp%20Image%202020-04-22%20at%206.58.47%20PM.jpeg" width="100" /> 
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Corona-Api/master/screenshots/WhatsApp%20Image%202020-04-22%20at%206.58.48%20PM.jpeg" width="100" />
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Corona-Api/master/screenshots/WhatsApp%20Image%202020-04-22%20at%206.58.49%20PM.jpeg" width="100" />
 </p>
 
 
